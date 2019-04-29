@@ -1,3 +1,7 @@
+** Release 0.0.1 April 29 2019 ** 
+    -Repository Name change
+        -Changed from Frontend-Boilerplate to Gulp-Template
+        
 ** Release 0.0.1 April 29 2019 **  
     -gulp downgrade:
     -Had to change from 4.0 to 3.9.1
